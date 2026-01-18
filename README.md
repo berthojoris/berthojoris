@@ -1,6 +1,6 @@
 # Hi, I'm Bertho 👋
 
-**Fullstack Developer · Backend Enthusiast · Open Source Contributor**
+**Fullstack Developer · Backend Systems & AI Enthusiast · Open Source Contributor**
 
 A fullstack developer passionate about backend development. I also enjoy exploring building backend systems, CLI tools, and AI infrastructure with a focus on reliability and performance.
 
