@@ -17,7 +17,7 @@ A fullstack developer passionate about backend development. I also enjoy explori
 ## 🛠 Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=go,rust,ts,react,php,laravel,nodejs,nextjs,vue,docker,linux,git&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,rust,ts,react,php,laravel,nodejs,nextjs,vue,docker,linux,git,vb.net,java,mysql&perline=8" />
 </p>
 
 > Focused on backend, systems, and modern web tooling.
