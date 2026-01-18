@@ -28,11 +28,11 @@ A fullstack developer passionate about backend development. I also enjoy explori
 
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=berthojoris&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=berthojoris&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="165"
   />
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=berthojoris&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=berthojoris&theme=tokyonight&hide_border=true&cache_seconds=1800"
     height="165"
   />
 </p>
