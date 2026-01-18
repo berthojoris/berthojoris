@@ -30,6 +30,6 @@ Fullstack Developer • Backend Enthusiast • Open Source Contributor
 ---
 
 ## 🌐 Connect With Me
-- 🌍 Website: https://berthojoris.github.io
+- 🌍 Website: https://www.berthojoris.com
 - 💼 LinkedIn: https://linkedin.com/in/xxxx
-- ✉️ Email: bertho_joris@yahoo.co.id
+- ✉️ Email: berthojoris@gmail.com
