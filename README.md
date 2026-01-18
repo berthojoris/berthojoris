@@ -26,5 +26,5 @@ Focused on backend, systems, and modern web tooling.
 ## 🌐 Connect With Me
 
 - 🌍 Website: https://www.berthojoris.com
-- 💼 LinkedIn: https://linkedin.com/in/xxxx
+- 💼 LinkedIn: https://www.linkedin.com/in/albertho-joris
 - ✉️ Email: berthojoris@gmail.com
