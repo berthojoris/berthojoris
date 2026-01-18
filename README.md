@@ -8,7 +8,7 @@ A fullstack developer passionate about backend development. I also enjoy explori
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **Fullstack developer, CLI Proxy & AI tooling**
+- 🔭 Currently working on **Fullstack Developer, CLI Proxy & AI tooling**
 - 🧠 Interested in **Backend Systems, Distributed Systems, AI Infrastructure**
 - 🌍 Based in **Jakarta, Indonesia**
 
